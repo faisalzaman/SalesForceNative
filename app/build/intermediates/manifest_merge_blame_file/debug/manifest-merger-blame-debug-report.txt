@@ -33,380 +33,102 @@
 24    <uses-permission android:name="com.ucf.salesforcenative.C2D_MESSAGE" />
 24-->F:\workspace\salesforcenative\app\AndroidManifest.xml:98:5-76
 24-->F:\workspace\salesforcenative\app\AndroidManifest.xml:98:22-73
-25    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
-25-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-80
-25-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-77
-26    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-26-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
-26-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
-27    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
-27-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-74
-27-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-71
-28    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
-28-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-74
-28-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-71
-29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-29-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-81
-29-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-78
-30    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" /> <!-- USE_FINGERPRINT is available from API 23 to API 27 and should be removed once minAPI > 27 -->
-30-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-88
-30-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-85
-31    <uses-permission android:name="android.permission.USE_FINGERPRINT" /> <!-- USE_BIOMETRIC is available on API 28 and higher -->
-31-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-74
-31-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-71
-32    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-32-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-72
-32-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-69
-33    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-33-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
-33-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:24:22-65
-34    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-34-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
-34-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:26:22-79
-35
-36    <application
-36-->F:\workspace\salesforcenative\app\AndroidManifest.xml:12:2-88:16
-37        android:name="com.ucf.salesforcenative.MainApplication"
-37-->F:\workspace\salesforcenative\app\AndroidManifest.xml:14:3-34
-38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-38-->[androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
-39        android:debuggable="true"
-40        android:icon="@drawable/sf__icon"
-40-->F:\workspace\salesforcenative\app\AndroidManifest.xml:12:15-48
-41        android:label="@string/app_name"
-41-->F:\workspace\salesforcenative\app\AndroidManifest.xml:13:6-38
-42        android:manageSpaceActivity="com.salesforce.androidsdk.ui.ManageSpaceActivity" >
-42-->F:\workspace\salesforcenative\app\AndroidManifest.xml:15:3-81
-43
-44        <!-- Launcher screen -->
-45        <activity
-45-->F:\workspace\salesforcenative\app\AndroidManifest.xml:18:3-25:14
-46            android:name="com.ucf.salesforcenative.MainActivity"
-46-->F:\workspace\salesforcenative\app\AndroidManifest.xml:18:13-41
-47            android:label="@string/app_name"
-47-->F:\workspace\salesforcenative\app\AndroidManifest.xml:19:7-39
-48            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
-48-->F:\workspace\salesforcenative\app\AndroidManifest.xml:20:4-62
-49            <intent-filter>
-49-->F:\workspace\salesforcenative\app\AndroidManifest.xml:21:4-24:20
-50                <action android:name="android.intent.action.MAIN" />
-50-->F:\workspace\salesforcenative\app\AndroidManifest.xml:22:5-57
-50-->F:\workspace\salesforcenative\app\AndroidManifest.xml:22:13-54
-51
-52                <category android:name="android.intent.category.LAUNCHER" />
-52-->F:\workspace\salesforcenative\app\AndroidManifest.xml:23:5-65
-52-->F:\workspace\salesforcenative\app\AndroidManifest.xml:23:15-62
-53            </intent-filter>
-54        </activity>
-55
-56        <!-- Login activity -->
-57        <!--
-58            Launch mode of "singleInstance" ensures that the activity isn't restarted
-59            by a callback from Chrome custom tab when auth flow is complete. This is
-60            required for the Chrome custom tab auth flow to work correctly.
-61        -->
-62        <!--
-63            To enable browser based authentication, uncomment the lines below and replace
-64            'scheme', 'host' and 'path' with their corresponding values from your connected app.
-65
-66            For example, if the callback URL of your connected app is
-67            "testsfdc:///mobilesdk/detect/oauth/done",
-68            'scheme' would be "testsfdc", 'host' would be "*" since it doesn't exist, and
-69            'path' would be "/mobilesdk/detect/oauth/done".
-70
-71            If the callback URL is "sfdc://login.salesforce.com/oauth/done",
-72            'scheme' would be "sfdc", 'host' would be "login.salesforce.com",
-73            and 'path' would be "/oauth/done".
-74        -->
-75        <!--
-76        <activity android:name="com.salesforce.androidsdk.ui.LoginActivity"
-77            android:theme="@style/SalesforceSDK"
-78            android:launchMode="singleInstance">
+25
+26    <application
+26-->F:\workspace\salesforcenative\app\AndroidManifest.xml:12:2-88:16
+27        android:name="com.ucf.salesforcenative.MainApplication"
+27-->F:\workspace\salesforcenative\app\AndroidManifest.xml:14:3-34
+28        android:debuggable="true"
+29        android:icon="@drawable/sf__icon"
+29-->F:\workspace\salesforcenative\app\AndroidManifest.xml:12:15-48
+30        android:label="@string/app_name"
+30-->F:\workspace\salesforcenative\app\AndroidManifest.xml:13:6-38
+31        android:manageSpaceActivity="com.salesforce.androidsdk.ui.ManageSpaceActivity" >
+31-->F:\workspace\salesforcenative\app\AndroidManifest.xml:15:3-81
+32
+33        <!-- Launcher screen -->
+34        <activity
+34-->F:\workspace\salesforcenative\app\AndroidManifest.xml:18:3-25:14
+35            android:name="com.ucf.salesforcenative.MainActivity"
+35-->F:\workspace\salesforcenative\app\AndroidManifest.xml:18:13-41
+36            android:label="@string/app_name"
+36-->F:\workspace\salesforcenative\app\AndroidManifest.xml:19:7-39
+37            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+37-->F:\workspace\salesforcenative\app\AndroidManifest.xml:20:4-62
+38            <intent-filter>
+38-->F:\workspace\salesforcenative\app\AndroidManifest.xml:21:4-24:20
+39                <action android:name="android.intent.action.MAIN" />
+39-->F:\workspace\salesforcenative\app\AndroidManifest.xml:22:5-57
+39-->F:\workspace\salesforcenative\app\AndroidManifest.xml:22:13-54
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->F:\workspace\salesforcenative\app\AndroidManifest.xml:23:5-65
+41-->F:\workspace\salesforcenative\app\AndroidManifest.xml:23:15-62
+42            </intent-filter>
+43        </activity>
+44
+45        <!-- Login activity -->
+46        <!--
+47            Launch mode of "singleInstance" ensures that the activity isn't restarted
+48            by a callback from Chrome custom tab when auth flow is complete. This is
+49            required for the Chrome custom tab auth flow to work correctly.
+50        -->
+51        <!--
+52            To enable browser based authentication, uncomment the lines below and replace
+53            'scheme', 'host' and 'path' with their corresponding values from your connected app.
+54
+55            For example, if the callback URL of your connected app is
+56            "testsfdc:///mobilesdk/detect/oauth/done",
+57            'scheme' would be "testsfdc", 'host' would be "*" since it doesn't exist, and
+58            'path' would be "/mobilesdk/detect/oauth/done".
+59
+60            If the callback URL is "sfdc://login.salesforce.com/oauth/done",
+61            'scheme' would be "sfdc", 'host' would be "login.salesforce.com",
+62            and 'path' would be "/oauth/done".
+63        -->
+64        <!--
+65        <activity android:name="com.salesforce.androidsdk.ui.LoginActivity"
+66            android:theme="@style/SalesforceSDK"
+67            android:launchMode="singleInstance">
+68
+69            <intent-filter>
+70                <data android:scheme="testsfdc"
+71                    android:host="*"
+72                    android:path="/mobilesdk/detect/oauth/done" />
+73                <action android:name="android.intent.action.VIEW" />
+74                <category android:name="android.intent.category.BROWSABLE" />
+75                <category android:name="android.intent.category.DEFAULT" />
+76            </intent-filter>
+77        </activity>
+78        -->
 79
-80            <intent-filter>
-81                <data android:scheme="testsfdc"
-82                    android:host="*"
-83                    android:path="/mobilesdk/detect/oauth/done" />
-84                <action android:name="android.intent.action.VIEW" />
-85                <category android:name="android.intent.category.BROWSABLE" />
-86                <category android:name="android.intent.category.DEFAULT" />
-87            </intent-filter>
-88        </activity>
-89        -->
-90
-91
-92        <!-- IDP account picker activity -->
+80
+81        <!-- IDP account picker activity -->
+82        <!--
+83            To enable this app as an IDP app that's capable of handling authentication
+84            requests originating from other SP apps, uncomment the lines below and replace
+85            'scheme' and 'host' with the values you wish to use to define your IDP app.
+86            The URI constructed from this must be unique and will be set in the SP app
+87            as well. This will be used to launch the IDP app from the SP app.
+88
+89            In the example given below, 'scheme' is "com.ucf.salesforcenative" and
+90            'host' is "authenticator". The full URI that needs to be set on the SP app would be
+91            "com.ucf.salesforcenative://authenticator".
+92        -->
 93        <!--
-94            To enable this app as an IDP app that's capable of handling authentication
-95            requests originating from other SP apps, uncomment the lines below and replace
-96            'scheme' and 'host' with the values you wish to use to define your IDP app.
-97            The URI constructed from this must be unique and will be set in the SP app
-98            as well. This will be used to launch the IDP app from the SP app.
-99
-100            In the example given below, 'scheme' is "com.ucf.salesforcenative" and
-101            'host' is "authenticator". The full URI that needs to be set on the SP app would be
-102            "com.ucf.salesforcenative://authenticator".
-103        -->
-104        <!--
-105        <activity android:name="com.salesforce.androidsdk.auth.idp.IDPAccountPickerActivity"
-106            android:excludeFromRecents="true"
-107            android:theme="@style/SalesforceSDK">
+94        <activity android:name="com.salesforce.androidsdk.auth.idp.IDPAccountPickerActivity"
+95            android:excludeFromRecents="true"
+96            android:theme="@style/SalesforceSDK">
+97
+98            <intent-filter>
+99                <data android:scheme="com.ucf.salesforcenative"
+100                    android:host="authenticator" />
+101                <action android:name="android.intent.action.VIEW" />
+102                <category android:name="android.intent.category.BROWSABLE" />
+103                <category android:name="android.intent.category.DEFAULT" />
+104            </intent-filter>
+105        </activity>
+106        -->
+107    </application>
 108
-109            <intent-filter>
-110                <data android:scheme="com.ucf.salesforcenative"
-111                    android:host="authenticator" />
-112                <action android:name="android.intent.action.VIEW" />
-113                <category android:name="android.intent.category.BROWSABLE" />
-114                <category android:name="android.intent.category.DEFAULT" />
-115            </intent-filter>
-116        </activity>
-117        -->
-118        <!-- SmartStore Inspector screen -->
-119        <activity
-119-->[:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:52
-120            android:name="com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity"
-120-->[:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-95
-121            android:exported="false"
-121-->[:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
-122            android:theme="@style/SalesforceSDK" /> <!-- Metadata for supported app restrictions -->
-122-->[:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-49
-123        <meta-data
-123-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:56
-124            android:name="android.content.APP_RESTRICTIONS"
-124-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-60
-125            android:resource="@xml/app_restrictions" /> <!-- Service required for authentication -->
-125-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-53
-126        <service
-126-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-42:19
-127            android:name="com.salesforce.androidsdk.auth.AuthenticatorService"
-127-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-79
-128            android:exported="true" >
-128-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36
-129            <intent-filter>
-129-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-37:29
-130                <action android:name="android.accounts.AccountAuthenticator" />
-130-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-80
-130-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-77
-131            </intent-filter>
-132
-133            <meta-data
-133-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-41:57
-134                android:name="android.accounts.AccountAuthenticator"
-134-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:17-69
-135                android:resource="@xml/authenticator" />
-135-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:17-54
-136        </service> <!-- Login activity -->
-137        <!--
-138            Launch mode of "singleInstance" ensures that the activity isn't restarted
-139            by a callback from Chrome custom tab when auth flow is complete. This is
-140            required for the Chrome custom tab auth flow to work correctly.
-141        -->
-142        <activity
-142-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-54:52
-143            android:name="com.salesforce.androidsdk.ui.LoginActivity"
-143-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-70
-144            android:launchMode="singleInstance"
-144-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-48
-145            android:screenOrientation="portrait"
-145-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-49
-146            android:theme="@style/SalesforceSDK" /> <!-- Passcode activity -->
-146-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-49
-147        <activity
-147-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-62:77
-148            android:name="com.salesforce.androidsdk.ui.PasscodeActivity"
-148-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-73
-149            android:exported="false"
-149-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-37
-150            android:screenOrientation="portrait"
-150-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-49
-151            android:theme="@style/SalesforceSDK.Passcode"
-151-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-58
-152            android:windowSoftInputMode="adjustResize|stateAlwaysVisible" /> <!-- Manage space activity -->
-152-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-74
-153        <activity
-153-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-68:52
-154            android:name="com.salesforce.androidsdk.ui.ManageSpaceActivity"
-154-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-76
-155            android:excludeFromRecents="true"
-155-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-46
-156            android:theme="@style/SalesforceSDK" /> <!-- Choose server activity -->
-156-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-49
-157        <activity
-157-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-75:52
-158            android:name="com.salesforce.androidsdk.ui.ServerPickerActivity"
-158-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-77
-159            android:excludeFromRecents="true"
-159-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-46
-160            android:screenOrientation="portrait"
-160-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-49
-161            android:theme="@style/SalesforceSDK" /> <!-- Account switcher activity -->
-161-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-49
-162        <activity
-162-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-82:52
-163            android:name="com.salesforce.androidsdk.ui.AccountSwitcherActivity"
-163-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-80
-164            android:excludeFromRecents="true"
-164-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-46
-165            android:screenOrientation="portrait"
-165-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-49
-166            android:theme="@style/SalesforceSDK" /> <!-- IDP webview activity -->
-166-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-49
-167        <activity
-167-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:9-90:52
-168            android:name="com.salesforce.androidsdk.auth.idp.IDPCodeGeneratorActivity"
-168-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-87
-169            android:excludeFromRecents="true"
-169-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:13-46
-170            android:exported="false"
-170-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:13-37
-171            android:screenOrientation="portrait"
-171-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-49
-172            android:theme="@style/SalesforceSDK" /> <!-- Dev info activity -->
-172-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-49
-173        <activity
-173-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-96:52
-174            android:name="com.salesforce.androidsdk.ui.DevInfoActivity"
-174-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-72
-175            android:exported="false"
-175-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-37
-176            android:theme="@style/SalesforceSDK" /> <!-- Receiver for IDP initiated login flow -->
-176-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:13-49
-177        <receiver
-177-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:9-107:20
-178            android:name="com.salesforce.androidsdk.auth.idp.IDPInititatedLoginReceiver"
-178-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-89
-179            android:exported="true" >
-179-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-36
-180            <intent-filter>
-180-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-106:29
-181                <action android:name="com.salesforce.IDP_LOGIN_REQUEST" />
-181-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:17-75
-181-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:25-72
-182
-183                <category android:name="android.intent.category.DEFAULT" />
-183-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:17-76
-183-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:27-73
-184            </intent-filter>
-185        </receiver>
-186
-187        <service android:name="com.salesforce.androidsdk.push.SFDCFcmListenerService" >
-187-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:9-113:19
-187-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:18-86
-188            <intent-filter>
-188-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-112:29
-189                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-189-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:17-78
-189-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:25-75
-190            </intent-filter>
-191        </service>
-192        <service
-192-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:9-118:19
-193            android:name="com.salesforce.androidsdk.push.SFDCRegistrationIntentService"
-193-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-88
-194            android:exported="false"
-194-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-37
-195            android:permission="android.permission.BIND_JOB_SERVICE" >
-195-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:13-69
-196        </service>
-197
-198        <receiver
-198-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:120:9-122:40
-199            android:name="com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver"
-199-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:13-105
-200            android:exported="false" />
-200-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:122:13-37
-201
-202        <service
-202-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:124:9-127:72
-203            android:name="com.salesforce.androidsdk.push.PushService"
-203-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:13-70
-204            android:exported="false"
-204-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:13-37
-205            android:permission="android.permission.BIND_JOB_SERVICE" />
-205-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:13-69
-206        <service
-206-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:128:9-131:72
-207            android:name="com.salesforce.androidsdk.analytics.AnalyticsPublisherService"
-207-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:129:13-89
-208            android:exported="false"
-208-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:13-37
-209            android:permission="android.permission.BIND_JOB_SERVICE" />
-209-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:13-69
-210        <!--
-211             FirebaseMessagingService performs security checks at runtime,
-212             but set to not exported to explicitly avoid allowing another app to call it.
-213        -->
-214        <service
-214-->[com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
-215            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-215-->[com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:29:13-82
-216            android:exported="false" >
-216-->[com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:30:13-37
-217            <intent-filter android:priority="-500" >
-217-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-112:29
-218                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-218-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:17-78
-218-->[:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:25-75
-219            </intent-filter>
-220        </service>
-221        <service
-221-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
-222            android:name="com.google.firebase.components.ComponentDiscoveryService"
-222-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:30:13-84
-223            android:directBootAware="true"
-223-->[com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:15:13-43
-224            android:exported="false" >
-224-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:31:13-37
-225            <meta-data
-225-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:32:13-34:85
-226                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-226-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:33:17-96
-227                android:value="com.google.firebase.components.ComponentRegistrar" />
-227-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:34:17-82
-228        </service>
-229
-230        <receiver
-230-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:37:9-44:20
-231            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-231-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:38:13-78
-232            android:exported="true"
-232-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:39:13-36
-233            android:permission="com.google.android.c2dm.permission.SEND" >
-233-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:40:13-73
-234            <intent-filter>
-234-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:41:13-43:29
-235                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-235-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:42:17-81
-235-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:42:25-78
-236            </intent-filter>
-237        </receiver>
-238
-239        <provider
-239-->[com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
-240            android:name="com.google.firebase.provider.FirebaseInitProvider"
-240-->[com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:20:13-77
-241            android:authorities="com.ucf.salesforcenative.firebaseinitprovider"
-241-->[com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:21:13-72
-242            android:exported="false"
-242-->[com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:22:13-37
-243            android:initOrder="100" />
-243-->[com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:23:13-36
-244
-245        <activity
-245-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-246            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-246-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-247            android:exported="false"
-247-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-248            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-248-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-249
-250        <meta-data
-250-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-251            android:name="com.google.android.gms.version"
-251-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-252            android:value="@integer/google_play_services_version" />
-252-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-253    </application>
-254
-255</manifest>
+109</manifest>
