@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 
 dependencies {
-//  api project(':libs:MobileSync') // From node_modules
-    implementation project(':libs:MobileSync')
+  api project(':libs:MobileSync') // From node_modules
+//    implementation project(':libs:MobileSync')
 }
 
 android {
