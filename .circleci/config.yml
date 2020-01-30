@@ -16,7 +16,7 @@ jobs:
       - run:
           name: Download Dependencies
           command:
-            sudo chmod +x ./gradlew
+            sudo chmod +x ./gradlew   #ref: link   https://discuss.circleci.com/t/gradle-permission-denied-in-circle-2-0-exited-with-code-126/26741
           #./gradlew androidDependencies
 
       - save_cache:
