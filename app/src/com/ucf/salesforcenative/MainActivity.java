@@ -64,6 +64,8 @@ public class MainActivity extends SalesforceActivity {
 		setTheme(isDarkTheme ? R.style.SalesforceSDK_Dark : R.style.SalesforceSDK);
 		MobileSyncSDKManager.getInstance().setViewNavigationVisibility(this);
 
+
+		//nothing to upadte just dushing around
 		// Setup view
 		setContentView(R.layout.main);
 	}
