@@ -1,0 +1,518 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
+MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-134:12
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [net.zetetic:android-database-sqlcipher:4.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9d2599434c326304b298db2e623530c2\android-database-sqlcipher-4.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1cea144c00900e5743fbdab43e870450\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a829c5bea9ef316e4231fda6d13bb186\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\237e1d353434c65eab2462b5af3a7d38\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\61fd76c3f848cf55f45e843ab08cdd70\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca3ed72cfdc57fc3a102e462c0327875\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0a80afa9ca98134d5ce7f6232c71e0a7\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e553813983e46838e58f4d5c941751e0\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\87f6f40d3a4140e765fd3d0a28f0da3a\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f3128affa7000c088d176285d7f5681f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f64c8351ef0c9a7a800019d28185706c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
+	package
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:4:2-36
+	android:versionName
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:6:2-27
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:5:2-25
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+	android:installLocation
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:7:2-40
+uses-permission#android.permission.INTERNET
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:9:2-64
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:10:2-76
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:10:19-73
+application
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:12:2-88:16
+MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-132:19
+MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-132:19
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-20
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a829c5bea9ef316e4231fda6d13bb186\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a829c5bea9ef316e4231fda6d13bb186\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\237e1d353434c65eab2462b5af3a7d38\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\237e1d353434c65eab2462b5af3a7d38\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f3128affa7000c088d176285d7f5681f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f3128affa7000c088d176285d7f5681f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:13:6-38
+	android:manageSpaceActivity
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:15:3-81
+	android:icon
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:12:15-48
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:14:3-34
+activity#com.ucf.salesforcenative.MainActivity
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:18:3-25:14
+	android:label
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:19:7-39
+	android:theme
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:20:4-62
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:22:5-57
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:23:15-62
+permission#com.ucf.salesforcenative.C2D_MESSAGE
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:95:5-96:47
+	android:protectionLevel
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:96:9-44
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:95:17-68
+uses-permission#com.ucf.salesforcenative.C2D_MESSAGE
+ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:98:5-76
+	android:name
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:98:22-73
+uses-sdk
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [net.zetetic:android-database-sqlcipher:4.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9d2599434c326304b298db2e623530c2\android-database-sqlcipher-4.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [net.zetetic:android-database-sqlcipher:4.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9d2599434c326304b298db2e623530c2\android-database-sqlcipher-4.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1cea144c00900e5743fbdab43e870450\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1cea144c00900e5743fbdab43e870450\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a829c5bea9ef316e4231fda6d13bb186\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a829c5bea9ef316e4231fda6d13bb186\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b198d367166617ab038c04401afd7dd4\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\237e1d353434c65eab2462b5af3a7d38\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\237e1d353434c65eab2462b5af3a7d38\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ffb6fe2bfdcaed2e475e1c22ecb75422\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\61fd76c3f848cf55f45e843ab08cdd70\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\61fd76c3f848cf55f45e843ab08cdd70\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\61015dda0f41d63be36764ccaeacf3e4\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca3ed72cfdc57fc3a102e462c0327875\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ca3ed72cfdc57fc3a102e462c0327875\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0a80afa9ca98134d5ce7f6232c71e0a7\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0a80afa9ca98134d5ce7f6232c71e0a7\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8d97f43c730baedb50b76131bea8976c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65eb695d8f60c47c48deea4b4bc97d22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e553813983e46838e58f4d5c941751e0\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e553813983e46838e58f4d5c941751e0\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\863b030a4ef24c5e89f12cd832de155e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3b95216347b91b0d0d6d33ef33ac3197\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dd52bdeda96a748df5d7e83cece6c38\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8069b605758f8fcc2cf1372e87a50a23\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2fe66d8bec3c90b690bace4d7b7b6157\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6bb482d4edfb8945df7454050b78aa75\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4848834a580ecbbeaa84b2c68ac1663a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7e3b4c2f83e256517b094f844ce7d668\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\87f6f40d3a4140e765fd3d0a28f0da3a\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\87f6f40d3a4140e765fd3d0a28f0da3a\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f3128affa7000c088d176285d7f5681f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f3128affa7000c088d176285d7f5681f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f64c8351ef0c9a7a800019d28185706c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f64c8351ef0c9a7a800019d28185706c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01d333055a983e736e0a5fac950ffa8f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b432947d09f38291043b1b7278108b44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2bd63e96b82e4254cd6653dc8da764d4\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\df65787e67fe4b4bc0635deed9695797\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a1f5477cd6fd5fad9baa3e263bec7d60\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\60b50828def4ba3859898ffb4c971c21\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a0e6ae58238c1d1ff8cccab3415a6d19\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+activity#com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity
+ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:52
+	android:exported
+		ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-95
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-85
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-69
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:56
+	android:resource
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-60
+service#com.salesforce.androidsdk.auth.AuthenticatorService
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-42:19
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-79
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-37:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-80
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-41:57
+	android:resource
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:17-54
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:17-69
+activity#com.salesforce.androidsdk.ui.LoginActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-54:52
+	android:screenOrientation
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-49
+	android:launchMode
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-48
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-70
+activity#com.salesforce.androidsdk.ui.PasscodeActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-62:77
+	android:screenOrientation
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-49
+	android:windowSoftInputMode
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-74
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-37
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-58
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-73
+activity#com.salesforce.androidsdk.ui.ManageSpaceActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-68:52
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-46
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-76
+activity#com.salesforce.androidsdk.ui.ServerPickerActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-75:52
+	android:screenOrientation
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-49
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-46
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-77
+activity#com.salesforce.androidsdk.ui.AccountSwitcherActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-82:52
+	android:screenOrientation
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-49
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-46
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-80
+activity#com.salesforce.androidsdk.auth.idp.IDPCodeGeneratorActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:9-90:52
+	android:screenOrientation
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-49
+	android:excludeFromRecents
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:13-46
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:13-37
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-87
+activity#com.salesforce.androidsdk.ui.DevInfoActivity
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-96:52
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-37
+	android:theme
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-72
+receiver#com.salesforce.androidsdk.auth.idp.IDPInititatedLoginReceiver
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:9-107:20
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-36
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-89
+intent-filter#action:name:com.salesforce.IDP_LOGIN_REQUEST+category:name:android.intent.category.DEFAULT
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-106:29
+action#com.salesforce.IDP_LOGIN_REQUEST
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:17-75
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:25-72
+category#android.intent.category.DEFAULT
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:17-76
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:27-73
+service#com.salesforce.androidsdk.push.SFDCFcmListenerService
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:9-113:19
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:18-86
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-112:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:17-78
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:25-75
+service#com.salesforce.androidsdk.push.SFDCRegistrationIntentService
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:9-118:19
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-37
+	android:permission
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:13-69
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-88
+receiver#com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:120:9-122:40
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:13-105
+service#com.salesforce.androidsdk.push.PushService
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:124:9-127:72
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:13-37
+	android:permission
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:13-69
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:13-70
+service#com.salesforce.androidsdk.analytics.AnalyticsPublisherService
+ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:128:9-131:72
+	android:exported
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:13-37
+	android:permission
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:13-69
+	android:name
+		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:129:13-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d8262479faa8af4e1e80a64c41db7371\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:26:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c8f5473afe48efe2a88699f852d3ff7d\firebase-iid-20.0.1\AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2c4fe65c4a6bb3a46cc02a2e943e8810\firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bd8a4935a17dde33dc1d62d4f9914d3b\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\565104b95cd9b7a687e55487a5281d39\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

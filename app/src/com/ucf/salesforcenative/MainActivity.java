@@ -58,6 +58,7 @@ public class MainActivity extends SalesforceActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
+// everyhting is not uptodate you mofo
 
 		// Setup theme
 		boolean isDarkTheme = MobileSyncSDKManager.getInstance().isDarkTheme();
@@ -65,7 +66,6 @@ public class MainActivity extends SalesforceActivity {
 		MobileSyncSDKManager.getInstance().setViewNavigationVisibility(this);
 
 
-		//nothing to upadte just dushing around
 		// Setup view
 		setContentView(R.layout.main);
 	}
