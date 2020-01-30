@@ -1,6 +1,9 @@
 buildscript {
   repositories {
     google()
+    maven {
+      url 'https://dl.google.com/dl/android/maven2'
+    }
     jcenter()
     maven {
       url 'https://s3.amazonaws.com/salesforcesos.com/android/maven/release'
