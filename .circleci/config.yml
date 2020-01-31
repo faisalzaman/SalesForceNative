@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 jobs:
   build:
     working_directory: ~/code
@@ -18,16 +18,18 @@ jobs:
             checksum "libs/SalesforceHybrid/build.gradle" }}-{{
             checksum "libs/SalesforceReact/build.gradle" }}
 
-        - &restore-gradle-cache
-          keys:
-            - *gradle-cache-key
+
     steps:
-      - checkout
-      - restore_cache:
-          key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
+#      - checkout
+#      - restore_cache:
+#          key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
       #      - run:
       #         name: Chmod permissions #if permission for Gradlew Dependencies fail, use this.
       #         command: sudo chmod +x ./gradlew
+            - &restore-gradle-cache
+              keys:
+                - *gradle-cache-key
+                -
       - run:
           name: Download Dependencies
           command:
