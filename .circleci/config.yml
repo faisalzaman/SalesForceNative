@@ -19,10 +19,6 @@ jobs:
             ./gradlew androidDependencies #ref: link   https://discuss.circleci.com/t/gradle-permission-denied-in-circle-2-0-exited-with-code-126/26741
           #sudo chmod +x ./gradlew
 
-  - run:
-      name: Run Android Lint
-      command:  ./gradlew lint
-      when: always
       - save_cache:
           paths:
             - ~/.gradle
