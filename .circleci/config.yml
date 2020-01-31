@@ -6,6 +6,26 @@ jobs:
       - image: circleci/android:api-29-ndk
     environment:
       JVM_OPTS: -Xmx3200m
+
+      aliases:
+        - &gradle-cache-key
+            gradle-cache-v2-{{ checksum "build.gradle" }}-{{
+            checksum "gradle/wrapper/gradle-wrapper.properties" }}-{{
+            checksum "libs/SalesforceAnalytics/build.gradle" }}-{{
+            checksum "libs/SalesforceSDK/build.gradle" }}-{{
+            checksum "libs/SmartStore/build.gradle" }}-{{
+            checksum "libs/MobileSync/build.gradle" }}
+
+  - &restore-gradle-cache
+    keys:
+      - *gradle-cache-key
+
+        - &save-gradle-cache
+          key: *gradle-cache-key
+          paths:
+            - .gradle
+            - /home/circleci/.gradle
+
     steps:
       - checkout
       - restore_cache:
@@ -19,6 +39,10 @@ jobs:
             ./gradlew androidDependencies #ref: link   https://discuss.circleci.com/t/gradle-permission-denied-in-circle-2-0-exited-with-code-126/26741
           #sudo chmod +x ./gradlew
 
+  - run:
+      name: Run Android Lint
+      command:  ./gradlew lint
+      when: always
       - save_cache:
           paths:
             - ~/.gradle
