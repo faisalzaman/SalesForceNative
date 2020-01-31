@@ -6,26 +6,6 @@ jobs:
       - image: circleci/android:api-29-ndk
     environment:
       JVM_OPTS: -Xmx3200m
-
-      aliases:
-        - &gradle-cache-key
-            gradle-cache-v2-{{ checksum "build.gradle" }}-{{
-            checksum "gradle/wrapper/gradle-wrapper.properties" }}-{{
-            checksum "libs/SalesforceAnalytics/build.gradle" }}-{{
-            checksum "libs/SalesforceSDK/build.gradle" }}-{{
-            checksum "libs/SmartStore/build.gradle" }}-{{
-            checksum "libs/MobileSync/build.gradle" }}
-
-  - &restore-gradle-cache
-    keys:
-      - *gradle-cache-key
-
-        - &save-gradle-cache
-          key: *gradle-cache-key
-          paths:
-            - .gradle
-            - /home/circleci/.gradle
-
     steps:
       - checkout
       - restore_cache:
