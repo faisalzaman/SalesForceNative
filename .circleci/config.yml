@@ -22,9 +22,8 @@ jobs:
              echo y | android update sdk --no-ui --all --filter "extra-android-support"
           command: chmod +x ./gradlew
                    chmod +x gradlew
-                   #./gradlew --gradle-version 5.4.1 --distribution-type all
                    ./gradlew androidDependencies
-
+          #./gradlew --gradle-version 5.4.1 --distribution-type all
           #command: ./gradlew androidDependencies
           #sudo chmod +x ./gradlew  #ref: link   https://discuss.circleci.com/t/gradle-permission-denied-in-circle-2-0-exited-with-code-126/26741
 
