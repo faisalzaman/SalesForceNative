@@ -16,14 +16,14 @@ jobs:
       - run:
           name: Download Dependencies
           pre:
-            - echo y | android update sdk --no-ui --all --filter "platform-tools, tools"
-            - echo y | android update sdk --no-ui --all --filter "android-24, build-tools-25.0.2"
-            - echo y | android update sdk --no-ui --all --filter "extra-android-m2repository"
-            - echo y | android update sdk --no-ui --all --filter "extra-android-support"
-            command: chmod +x ./gradlew
-            command: chmod +x gradlew
-            command: ./gradlew --gradle-version 4.8 --distribution-type all
-            command: ./gradlew androidDependencies
+             echo y | android update sdk --no-ui --all --filter "platform-tools, tools"
+             echo y | android update sdk --no-ui --all --filter "android-24, build-tools-25.0.2"
+             echo y | android update sdk --no-ui --all --filter "extra-android-m2repository"
+             echo y | android update sdk --no-ui --all --filter "extra-android-support"
+          command: chmod +x ./gradlew
+                   chmod +x gradlew
+                   ./gradlew --gradle-version 4.8 --distribution-type all
+                   ./gradlew androidDependencies
 
           #command: ./gradlew androidDependencies
           #sudo chmod +x ./gradlew  #ref: link   https://discuss.circleci.com/t/gradle-permission-denied-in-circle-2-0-exited-with-code-126/26741
