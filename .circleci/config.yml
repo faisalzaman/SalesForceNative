@@ -22,7 +22,7 @@ jobs:
              echo y | android update sdk --no-ui --all --filter "extra-android-support"
           command: chmod +x ./gradlew
                    chmod +x gradlew
-                   ./gradlew --gradle-version 5.4.1 --distribution-type all
+                   #./gradlew --gradle-version 5.4.1 --distribution-type all
                    ./gradlew androidDependencies
 
           #command: ./gradlew androidDependencies
