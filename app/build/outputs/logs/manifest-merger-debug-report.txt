@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
-MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
-MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
-MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-134:12
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-16:12
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:3:1-99:12
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:3:1-99:12
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:3:1-99:12
+MERGED from [:libs:MobileSync] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-134:12
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-16:12
 MERGED from [net.zetetic:android-database-sqlcipher:4.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\997bdfdb9e7696f6ab59a9d9fcc5bfcb\android-database-sqlcipher-4.2.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b07abba6935ce3406b9c1cb45e242cef\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.browser:browser:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\dfb58d8fc5a13097647f96649f8042c9\browser-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -48,48 +48,48 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d0a2f61a2c717be0a633ef3cbb446050\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\aaebc06baccea50d35497f197aaf6776\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5b4fe076154f6950f5466fdd7ab0b010\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:1-99:12
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:3:1-99:12
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:3:1-99:12
 	package
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:4:2-36
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:4:2-36
 	android:versionName
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:6:2-27
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:6:2-27
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:3:11-69
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:3:11-69
 	android:versionCode
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:5:2-25
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:5:2-25
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
 	android:installLocation
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:7:2-40
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:7:2-40
 uses-permission#android.permission.INTERNET
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:9:2-64
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:9:2-64
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\90719f05119e2fa55965aedaecd6d41c\firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\90719f05119e2fa55965aedaecd6d41c\firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:9:19-61
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:9:19-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:10:2-76
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:10:2-76
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\90719f05119e2fa55965aedaecd6d41c\firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\90719f05119e2fa55965aedaecd6d41c\firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:10:19-73
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:10:19-73
 application
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:12:2-88:16
-MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
-MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
-MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
-MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
-MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-132:19
-MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-132:19
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-20
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-20
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:12:2-88:16
+MERGED from [:libs:MobileSync] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:libs:MobileSync] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-132:19
+MERGED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-132:19
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-20
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-20
 MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b07abba6935ce3406b9c1cb45e242cef\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b07abba6935ce3406b9c1cb45e242cef\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3092fb3eb37cc960c0a6a6150b2ec57e\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -117,53 +117,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d640805e13acbdd38c54c37ea9546ece\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:13:6-38
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:13:6-38
 	android:manageSpaceActivity
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:15:3-81
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:15:3-81
 	android:icon
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:12:15-48
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:12:15-48
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:14:3-34
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:14:3-34
 activity#com.ucf.salesforcenative.MainActivity
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:18:3-25:14
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:18:3-25:14
 	android:label
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:19:7-39
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:19:7-39
 	android:theme
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:20:4-62
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:20:4-62
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:18:13-41
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:21:4-24:20
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:21:4-24:20
 action#android.intent.action.MAIN
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:22:5-57
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:22:5-57
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:22:13-54
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:22:13-54
 category#android.intent.category.LAUNCHER
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:23:5-65
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:23:5-65
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:23:15-62
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:23:15-62
 permission#com.ucf.salesforcenative.C2D_MESSAGE
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:95:5-96:47
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:95:5-96:47
 	android:protectionLevel
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:96:9-44
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:96:9-44
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:95:17-68
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:95:17-68
 uses-permission#com.ucf.salesforcenative.C2D_MESSAGE
-ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:98:5-76
+ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:98:5-76
 	android:name
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml:98:22-73
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml:98:22-73
 uses-sdk
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:MobileSync] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:libs:SalesforceAnalytics] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+MERGED from [:libs:MobileSync] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:MobileSync] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\MobileSync\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libs:SalesforceAnalytics] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceAnalytics\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [net.zetetic:android-database-sqlcipher:4.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\997bdfdb9e7696f6ab59a9d9fcc5bfcb\android-database-sqlcipher-4.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [net.zetetic:android-database-sqlcipher:4.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\997bdfdb9e7696f6ab59a9d9fcc5bfcb\android-database-sqlcipher-4.2.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b07abba6935ce3406b9c1cb45e242cef\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
@@ -246,206 +246,206 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\t
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\aaebc06baccea50d35497f197aaf6776\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5b4fe076154f6950f5466fdd7ab0b010\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5b4fe076154f6950f5466fdd7ab0b010\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-		ADDED from F:\workspace\salesforcenative\app\AndroidManifest.xml
-		INJECTED from F:\workspace\salesforcenative\app\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+		ADDED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Downloads\SalesForceNative-master\app\AndroidManifest.xml
 activity#com.salesforce.androidsdk.smartstore.ui.SmartStoreInspectorActivity
-ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:52
+ADDED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:52
 	android:exported
-		ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+		ADDED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
 	android:theme
-		ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-49
+		ADDED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-49
 	android:name
-		ADDED from [:libs:SmartStore] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-95
+		ADDED from [:libs:SmartStore] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SmartStore\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-95
 uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-80
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-77
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-77
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
 uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-74
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-74
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-71
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-71
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-74
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-74
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-71
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-71
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-81
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-78
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-88
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-88
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-85
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-85
 uses-permission#android.permission.USE_FINGERPRINT
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-74
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-74
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-71
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-71
 uses-permission#android.permission.USE_BIOMETRIC
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-72
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-72
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-69
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-69
 meta-data#android.content.APP_RESTRICTIONS
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:56
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:56
 	android:resource
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-53
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-53
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-60
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-60
 service#com.salesforce.androidsdk.auth.AuthenticatorService
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-42:19
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-42:19
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-79
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-79
 intent-filter#action:name:android.accounts.AccountAuthenticator
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-37:29
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-37:29
 action#android.accounts.AccountAuthenticator
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-80
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-80
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-77
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-77
 meta-data#android.accounts.AccountAuthenticator
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-41:57
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-41:57
 	android:resource
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:17-54
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:17-54
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:17-69
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:17-69
 activity#com.salesforce.androidsdk.ui.LoginActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-54:52
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:9-54:52
 	android:screenOrientation
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-49
 	android:launchMode
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-48
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-48
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-49
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-70
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-70
 activity#com.salesforce.androidsdk.ui.PasscodeActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-62:77
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:9-62:77
 	android:screenOrientation
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-49
 	android:windowSoftInputMode
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-74
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-74
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-37
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-58
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-58
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-73
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-73
 activity#com.salesforce.androidsdk.ui.ManageSpaceActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-68:52
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:9-68:52
 	android:excludeFromRecents
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-46
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:13-46
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-49
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-76
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-76
 activity#com.salesforce.androidsdk.ui.ServerPickerActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-75:52
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:9-75:52
 	android:screenOrientation
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-49
 	android:excludeFromRecents
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-46
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-46
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-49
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-77
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-77
 activity#com.salesforce.androidsdk.ui.AccountSwitcherActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-82:52
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:9-82:52
 	android:screenOrientation
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-49
 	android:excludeFromRecents
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-46
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:13-46
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-49
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-80
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-80
 activity#com.salesforce.androidsdk.auth.idp.IDPCodeGeneratorActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:9-90:52
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:9-90:52
 	android:screenOrientation
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-49
 	android:excludeFromRecents
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:13-46
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:13-46
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:13-37
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-49
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-87
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-87
 activity#com.salesforce.androidsdk.ui.DevInfoActivity
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-96:52
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-96:52
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-37
 	android:theme
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:13-49
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:13-49
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-72
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-72
 receiver#com.salesforce.androidsdk.auth.idp.IDPInititatedLoginReceiver
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:9-107:20
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:9-107:20
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-36
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-36
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-89
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-89
 intent-filter#action:name:com.salesforce.IDP_LOGIN_REQUEST+category:name:android.intent.category.DEFAULT
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-106:29
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-106:29
 action#com.salesforce.IDP_LOGIN_REQUEST
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:17-75
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:17-75
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:25-72
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:25-72
 category#android.intent.category.DEFAULT
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:17-76
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:17-76
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:27-73
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:27-73
 service#com.salesforce.androidsdk.push.SFDCFcmListenerService
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:9-113:19
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:9-113:19
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:18-86
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:18-86
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-112:29
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-112:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:17-78
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:17-78
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:25-75
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:25-75
 service#com.salesforce.androidsdk.push.SFDCRegistrationIntentService
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:9-118:19
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:9-118:19
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-37
 	android:permission
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:13-69
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:13-69
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-88
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-88
 receiver#com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:120:9-122:40
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:120:9-122:40
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:122:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:122:13-37
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:13-105
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:13-105
 service#com.salesforce.androidsdk.push.PushService
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:124:9-127:72
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:124:9-127:72
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:13-37
 	android:permission
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:13-69
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:13-69
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:13-70
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:13-70
 service#com.salesforce.androidsdk.analytics.AnalyticsPublisherService
-ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:128:9-131:72
+ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:128:9-131:72
 	android:exported
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:13-37
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:13-37
 	android:permission
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:13-69
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:13-69
 	android:name
-		ADDED from [:libs:SalesforceSDK] F:\workspace\salesforcenative\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:129:13-89
+		ADDED from [:libs:SalesforceSDK] C:\Users\HP\Downloads\SalesForceNative-master\mobile_sdk\SalesforceMobileSDK-Android\libs\SalesforceSDK\build\intermediates\library_manifest\debug\AndroidManifest.xml:129:13-89
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b07abba6935ce3406b9c1cb45e242cef\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
 	android:exported
